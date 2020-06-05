@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_addGroup"
+        android:icon="@drawable/ic_local_offer_black_24dp"
+        android:title="그룹추가"  ></item>
+    <item
+        android:id="@+id/menu_addMember"
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="연락처추가"></item>
+
+    <item
+        android:id="@+id/menu_info"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="프로그램 정보"></item>
+    <item
+        android:id="@+id/menu_setting"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="환경설정"></item>
+</menu>
